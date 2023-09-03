@@ -1,0 +1,1 @@
+#offers information about a Linux machine's operating system and hardware platform
